@@ -303,7 +303,7 @@ export default function SettingsPage() {
               </div>
               <div className="flex-1">
                 <h3 className="text-sm font-medium text-foreground">Donasi</h3>
-                <p className="text-xs text-muted-foreground">Dukung pengembangan SHINKANIMEID</p>
+                <p className="text-xs text-muted-foreground">Donasi untuk SHINKANIMEID</p>
               </div>
               <ExternalLink className="w-5 h-5 text-muted-foreground" />
             </a>
